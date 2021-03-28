@@ -2,7 +2,7 @@
     "name": "nightblue",
     "displayName": "NightBlue",
     "description": "Dark theme for vscode",
-    "version": "0.0.2",
+    "version": "0.0.45",
     "publisher": "yeekiiiiii",
     "engines": {
         "vscode": "^1.54.0"
@@ -10,6 +10,17 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "vscode",
+        "theme",
+        "dark",
+        "night blue"
+    ],
+    "icon": "logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kenneth2001/NightBlue"
+    },
     "contributes": {
         "themes": [
             {
