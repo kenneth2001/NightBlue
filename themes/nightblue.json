@@ -1,8 +1,6 @@
 {
   "name": "NightBlue",
   "semanticHighlighting": true,
-  
-    
   "tokenColors": [
     {
       "name": "unison punctuation",
@@ -99,7 +97,7 @@
       "name": "punctuation.definition",
       "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
       "settings": {
-        "foreground": "#f9f27c"
+        "foreground": "#66C0FF" //1E6EA4
       }
     },
     {
@@ -719,7 +717,7 @@
       "name": "Meta tag",
       "scope": "meta.tag",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#ffffff" //ffffff
       }
     },
     {
@@ -768,14 +766,14 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#f6efff"
+        "foreground": "#fb7da7" //f6efff
       }
     },
     {
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#a198e6"
+        "foreground": "#afa8ea" //a198e6
       }
     },
     {
@@ -1834,11 +1832,6 @@
       }
     }
   ],
-    
-  
-  
-  
-  
   "colors": {
     "focusBorder": "#FFFFFF00",
     "foreground": "#A6ACCD",
@@ -1866,7 +1859,7 @@
     "editorGroup.dropBackground": "#f0717880",
     "editorGroup.focusedEmptyBorder": "#f07178",
     "editorGroupHeader.tabsBackground": "#292D3E",
-	"editorGroupHeader.border": "#FFFFFF00",
+    "editorGroupHeader.border": "#FFFFFF00",
     "tab.border": "#9D9DFF20",
     "tab.activeBorder": "#80CBC4",
     "tab.inactiveBackground": "#292D3E",
