@@ -2,8 +2,9 @@
 
 All notable changes to the "nightblue" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
 
 - Initial release
+- Update README
+- Better support for HTML
+- Add logo
