@@ -3,17 +3,22 @@
 Dark Theme for Visual Studio Code
 
 ## Preview
-Python
+**Python**
 ![image](https://user-images.githubusercontent.com/24566737/112941515-4cb94e80-9161-11eb-84e4-df0379930551.png)
-JAVA
+
+**JAVA**
 ![image](https://user-images.githubusercontent.com/24566737/112941534-52169900-9161-11eb-905f-aa7b35ee8e12.png)
-JAVASCRIPT
+
+**JAVASCRIPT**
 ![image](https://user-images.githubusercontent.com/24566737/112941552-5a6ed400-9161-11eb-9d6e-ac3e426a2671.png)
-C
+
+**C**
 ![image](https://user-images.githubusercontent.com/24566737/112941566-5fcc1e80-9161-11eb-9f84-c5320e9f785f.png)
-HTML / CSS
+
+**HTML / CSS**
 ![image](https://user-images.githubusercontent.com/24566737/112941580-65c1ff80-9161-11eb-83b0-6e3c0c095054.png)
-JSON
+
+**JSON**
 ![image](https://user-images.githubusercontent.com/24566737/112941595-6eb2d100-9161-11eb-965d-760d0ee5547a.png)
 
 
