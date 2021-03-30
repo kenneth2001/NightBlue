@@ -2,7 +2,7 @@
     "name": "nightblue",
     "displayName": "NightBlue",
     "description": "Dark theme for vscode",
-    "version": "0.0.45",
+    "version": "0.2",
     "publisher": "yeekiiiiii",
     "engines": {
         "vscode": "^1.54.0"
@@ -24,9 +24,22 @@
     "contributes": {
         "themes": [
             {
-                "label": "nightblue",
+                "id": "nightblue1",
+                "label": "nightblue 1",
                 "uiTheme": "vs-dark",
-                "path": "./themes/nightblue.json"
+                "path": "./themes/nightblue-1.json"
+            },
+            {
+                "id": "nightblue2",
+                "label": "nightblue 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nightblue-2.json"
+            },
+            {
+                "id": "nightblue3",
+                "label": "nightblue 3",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nightblue-3.json"
             }
         ]
     }
