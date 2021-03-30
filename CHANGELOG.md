@@ -2,9 +2,10 @@
 
 All notable changes to the "nightblue" extension will be documented in this file.
 
-## [Unreleased]
+## [Released]
 
 - Initial release
 - Update README
-- Better support for HTML
-- Add logo
+- Add support for HTML and CSS
+- Add a logo
+- Add two more coloring methods
