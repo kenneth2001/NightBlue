@@ -2,7 +2,7 @@
     "name": "nightblue",
     "displayName": "NightBlue",
     "description": "Dark theme for vscode",
-    "version": "0.2.0",
+    "version": "0.3.1",
     "publisher": "yeekiiiiii",
     "engines": {
         "vscode": "^1.54.0"
@@ -40,6 +40,12 @@
                 "label": "nightblue 3",
                 "uiTheme": "vs-dark",
                 "path": "./themes/nightblue-3.json"
+            },
+            {
+                "id": "nightblue4",
+                "label": "nightblue oled",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nightblue-oled.json"
             }
         ]
     }
