@@ -42,3 +42,7 @@ NightBlue provides three sets of coloring method.
 
 **nightblue 3**
 ![image](https://user-images.githubusercontent.com/24566737/112941790-bd606b00-9161-11eb-961b-10e48c7d7463.png)
+
+**nightblue oled**
+![image](https://user-images.githubusercontent.com/24566737/113828802-5f620200-97b7-11eb-86d8-9819719679a4.png)
+
