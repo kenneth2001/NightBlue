@@ -9,3 +9,4 @@ All notable changes to the "nightblue" extension will be documented in this file
 - Add support for HTML and CSS
 - Add a logo
 - Add two more coloring methods
+- Add true dark theme
